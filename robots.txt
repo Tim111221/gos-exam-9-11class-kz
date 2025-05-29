@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tim111221.github.io/sitemap.xml
+Sitemap: https://tim111221.github.io/gos-exam-9-11class-kz/sitemap.xml
